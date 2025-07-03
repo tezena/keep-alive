@@ -5,7 +5,9 @@ import requests
 URLS = [
     "https://character-prototyping.onrender.com",
     "https://character-prototyping-1.onrender.com",
-    "https://character-prototyping-2.onrender.com"
+    "https://character-prototyping-2.onrender.com",
+    "https://pm-tutorial-3.onrender.com",
+     "https://pm-tutorial-2.onrender.com"
 ]
 
 def keep_alive():
